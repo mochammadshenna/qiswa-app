@@ -21,12 +21,18 @@ soon
 - [ ] Docker
 - [ ] etc.
 
-### Installation
+### See this Project
 
-1. Clone this repo
-2. Run `npm install`
+##### `npm start`
 
-### Development
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-1. `npm start`: Run the app in development mode.
-2. `npm run build`: Builds the app for production to the build folder.
+##### `npm test`
+
+Launches the test runner in the interactive watch mode.\
+
+##### `npm run build`
+
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
